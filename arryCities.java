@@ -11,8 +11,6 @@ public class arryCities {
 			System.out.println("Enter the city name ");
 			cities[i] = scan.next();
 		}
-			//System.out.println("The list of cities are: " +cities[i]);
-			
 		
 		
 		 String temp;
